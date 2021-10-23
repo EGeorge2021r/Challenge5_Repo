@@ -9,7 +9,7 @@ Goal: The project goal is to build a tool to help credit union members evaluate 
       First, they should be able to assess their monthly budgets. 
       Second, they should be able to forecast a reasonably effective retirement plan based on their current holdings of cryptocurrencies, stocks, and bonds. 
 
-Reason: The credit union focus is on projects to benefit local communities offering them the opportunity to achieve the following:
+Reason: The credit union focus is on projects that will benefit local communities offering them the opportunity to achieve the following:
       1.	A tool that will enable members to determine if they have enough reserves for an emergency fund.
       2.	A financial planner for forecasting the performance of their retirement portfolio in 30 years. 
 
