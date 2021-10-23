@@ -1,0 +1,50 @@
+   87  tech_stocks_python.py
+   88  pwd
+   89  cd 02_listing_Assets
+   90  ~
+   91  ls
+   92  cd FINTECH WORKSPACE
+   93  cd ~
+   94  ls
+   95  conda deactivate
+   96  ls
+   97  cd OneDrive
+   98  cd desktop
+   99  cd Fintech\ workspace/
+  100  cd _Mar
+  101  cd 02_Listing_Assets/
+  102  cd Unsolved/
+  103  python listing_assets.py
+  104  python listing_assets.py
+  105  python actors_python.py
+  106  python The_401k_shuffle.py
+  107  ls
+  108  pwd
+  109  cd fintech_workspace
+  110  ~
+  111  coda deactivate
+  112  conda deactivate
+  113  ~
+  114  ~
+  115  pwd
+  116  cd one
+  117  exit
+  118  cd OneDrive
+  119  cd Desktop
+  120  cd Fintech/
+  121  cd Challenge5_Repo/
+  122  ls
+  123  conda activate dev
+  124  cd Starter_Code/
+  125  code .
+  126  git add -A
+  127  git commit -m "Challenge part1 update"
+  128  git push origin main
+  129  git add -A
+  130  git commit -m "Commit parts 1 and 2"
+  131  git push origin main
+  132  git add -A
+  133  git commit - m "Commit at completion of challenge"
+  134  git commit -m "commit on completion of part two"
+  135  git push origin main
+  136  history 50 >terminal_history.txt
